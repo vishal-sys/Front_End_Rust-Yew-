@@ -1,0 +1,41 @@
+body {
+    background-image: url('https://imgs.search.brave.com/3idp7IptMg7khRObSV4_pCx6WX67VnDoRWRhlBOcHkA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzNkL1J1c3RfRm91/bmRhdGlvbl9sb2dv/LnBuZw');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 300px 200px;
+}
+
+div {
+    margin-top:50%px;
+    text-align:center;
+    color:white;
+    font-family:Cubano;
+
+}
+
+p {
+
+    margin-top: 5%;
+    font-size:15em;
+    width:20%;
+    height:200px;
+    font-size:11em;
+    font-family:Cubano;
+    color:white;
+    text-align:center;
+    background-color:#f3a8e3;
+    border-width:8px;
+    margin-left: 40%;
+}
+
+button {
+    width:20%;
+    height:200px;
+    font-size:11em;
+    font-family:Cubano;
+    color:white;
+    text-align:center;
+    background-color:#000000;
+    border-width:8px;
+}
